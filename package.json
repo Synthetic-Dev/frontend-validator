@@ -1,0 +1,19 @@
+{
+  "name": "frontend-validator",
+  "version": "0.1.0",
+  "description": "A validator for frontend web applications, inspired by express-validator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "validator",
+    "frontend",
+    "web",
+    "valid",
+    "vaidate",
+    "chain"
+  ],
+  "author": "Leon Semmens",
+  "license": "MIT"
+}
