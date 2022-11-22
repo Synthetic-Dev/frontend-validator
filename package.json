@@ -16,11 +16,11 @@
   "author": "Leon Semmens <leon.semmens2022@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/Synthetic-Dev/frontend-validator/issues"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git://github.com/Synthetic-Dev/frontend-validator.git"
   },
   "dependencies": {
     "validator": "^13.7.0"
